@@ -13,7 +13,7 @@ After you downloaded the sources, by cloning the repository or after unpacking t
 
 cmake <path_to_sources>
 
-After the configuration process completed, you can start the build by running tipically 'make' or 'ninja', or open the solution file with Visual Studio.
+After the configuration process completed, you can start the build by running tipically `make` or `ninja`, or open the solution file with Visual Studio.
 
 ## INSTALLATION
 
