@@ -29,5 +29,6 @@ From: http://www.intel.com/support/graphics/sb/CS-004684.htm
 > Hardware acceleration for OpenGL screensavers is not enabled in the graphics drivers because of potential compatibility issues with a number of third party OpenGL screensavers. Running the screensavers in software mode should reduce the possibility of system lockups or crashes while these screen savers are enabled. This should not prevent these screen savers from running, but slow rendering speed may be seen. This does not affect OpenGL-based games or general applications.
 
 A fast workaround, rename the screensaver form .scr to .sCr. from this tip:
+
 http://uktsupport.ipbhost.com/index.php?showtopic=11194
 
