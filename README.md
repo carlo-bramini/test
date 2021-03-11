@@ -1,4 +1,4 @@
-## R E A C T O S     S T A R F I E L D  S C R E E N S A V E R
+## REACTOS STARFIELD  SCREENSAVER
 
 This is ReactOS Starfield Screensaver, an OpenGL accelerated screensaver that simulates an animated space field.
 It requires hardware acceleration for working with minimal CPU usage.
