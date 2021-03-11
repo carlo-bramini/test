@@ -32,3 +32,11 @@ A fast workaround, rename the screensaver form .scr to .sCr. from this tip:
 
 http://uktsupport.ipbhost.com/index.php?showtopic=11194
 
+
+## CLOSING WORDS
+
+Have fun with ReactOS Starfield Screensaver!
+
+-------------------------------------------------------------------
+Carlo Bramini, 12-02-2012
+
